@@ -1,2 +1,4 @@
-# shortening-crx
-Chrome extension to save links.
+shortening-crx
+==========
+
+A Chrome Extension for a related project.

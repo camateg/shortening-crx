@@ -1,0 +1,11 @@
+{
+  "name": "Links Menu",
+  "description": "Allows you to save links.",
+  "version": "0.1",
+  "permissions": ["contextMenus", "http://*/*"],
+  "background": {
+    "scripts": ["poster.js", "jquery.js"]
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://shortening.herokuapp.com; object-src 'self'"
+}
